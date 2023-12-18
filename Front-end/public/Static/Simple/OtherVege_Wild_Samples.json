@@ -1,0 +1,10 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.13574444444446,30.361894444444445]},"properties":{"No":1,"luwei":"HZW #3.10","AGB_actual":1614,"X":121.135744444,"Y":30.3618944444}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.1350388888889,30.3622]},"properties":{"No":2,"luwei":"HZW #3.11","AGB_actual":1564,"X":121.135038889,"Y":30.3622}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.1362,30.361575000000002]},"properties":{"No":3,"luwei":"HZW #3.8","AGB_actual":2006,"X":121.1362,"Y":30.361575}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.1512888888889,30.35303888888889]},"properties":{"No":4,"luwei":"HZW #4.3","AGB_actual":1519,"X":121.151288889,"Y":30.3530388889}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.92119166666667,29.767716666666665]},"properties":{"No":5,"luwei":"MSG #1.2","AGB_actual":920.1,"X":121.921191667,"Y":29.7677166667}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.94968611111112,29.756558333333334]},"properties":{"No":6,"luwei":"MSG #3.2","AGB_actual":3220.4,"X":121.949686111,"Y":29.7565583333}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.94281666666667,29.769030555555556]},"properties":{"No":7,"luwei":"MSG #5.1","AGB_actual":3623.9,"X":121.942816667,"Y":29.7690305556}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[121.94057222222223,29.754994444444446]},"properties":{"No":8,"luwei":"MSG #6.2","AGB_actual":911.2,"X":121.940572222,"Y":29.7549944444}}
+]}
