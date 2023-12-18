@@ -1,8 +1,12 @@
 .DS_Store
 node_modules
+
 public/Cesium
 public/Img
+public/Static
+
 /dist
+
 
 
 # local env files
